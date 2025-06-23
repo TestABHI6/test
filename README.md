@@ -1,9 +1,1 @@
-<html>
-<head>
-<title>Clickjack</title>
-</head>
-<body>
-<p>Website is vulnerable to clickjacking!</p>
-<iframe src="https://" width="500" height="500"></iframe>
-</body>
-</html>
+%3Cscript%3Ealert(1)%3C%2Fscript%3E
